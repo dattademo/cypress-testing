@@ -13,11 +13,20 @@ export default class eventPage extends BasePage {
     static quantityButton = '#quantity-button'
     static quantList = '#quantity-dropdown'
 
+    // Buy Button
     static buyButton = 'Comprar'
+
+    static productCluster = '#products'
+    static ticketPrice = '#products > :nth-child(1) > .value'
+    static serviceCharge = '#service-value'
+    static totalPrice = '#total-value'
+
     static eventContent = '#event_content'
     static continueButton = 'Continuar'
     static deliverySelectButton = 'Seleccionar'
     static confirm = 'Confirmar reserva'
+
+    static purchaseDetail = '.purchase-detail'
 
     // Open Dropdown finding the button by id
     static openDropdown(button) {

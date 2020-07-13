@@ -1,8 +1,11 @@
 {
+    "eventTitle": "Lollapalooza 2020 - 27, 28 y 29 de Noviembre",
     "textToSearch": "lollapalooza",
-    "eventURL": "../event/lollapalooza-2020",
+    "eventURL": "/event/lollapalooza-2020",
     "eventDay": "Día 2",
     "ticketType": "VIP Día 2",
-    "ticketPrice": 7990,
-    "ticketQuantity": "2"
+    "ticketPrice": "$ 7.990,00",
+    "serviceCharge":"$ 2.400,00",
+    "ticketQuantity": "2",
+    "totalPrice" : "$ 18.380,00"
 }
