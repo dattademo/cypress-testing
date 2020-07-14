@@ -1,6 +1,5 @@
 {
     "baseUrl": "https://www.allaccess.com.ar/",
     "viewportHeight":1080,
-    "viewportWidth":1920,
-    "reporter": "reporters/custom.js"
+    "viewportWidth":1920
   }
